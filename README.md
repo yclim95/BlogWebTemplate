@@ -1,7 +1,7 @@
 # Blog Web Template (Static)
 
 ## Live Preview 
-Deployed [**Here**]()
+Deployed [**Here**](http://yc-blogtemplate.bitballoon.com/)
 
 ## Programming/Markup Languages used:
 1. HTML 
@@ -21,14 +21,18 @@ Deployed [**Here**]()
 7. Mobile Optimization 
 
 
-## Others
+## Pages
+1. Home/Index
+2. Post
+3. About 
+4. Contact 
 
 
 ## Preview 
 **Web View**
 
-![Web View]()
+![Web View](https://github.com/yclim95/BlogWebTemplate/blob/master/img/webPreview.png)
 
 **Mobile View**
 
-![Mobile View]()
+![Mobile View](https://github.com/yclim95/BlogWebTemplate/blob/master/img/mobilePreview.png)
