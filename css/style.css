@@ -77,3 +77,39 @@ Carousel Styles
     float: left;
     margin-right: 5px;
 }
+
+.post-info{
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border: #ccc 1px solid;
+}
+
+/*
+MEDIA QUERIES
+*/
+
+/*Above 992px */
+@media(min-width:992px){
+    #myCarousel{
+        padding-right: 33.3333%;
+    }
+
+    #myCarousel .carousel-controls{
+       display: none;
+    }
+}
+
+/*Below 991px */
+@media(max-width:992px){
+    .carousel-caption p, #myCarousel .list-group{
+        display: none;
+    }
+}
+
+/*Below 1200px */
+@media(max-width:1200px){
+    .slider-list p{
+        display: none;
+    }
+}
